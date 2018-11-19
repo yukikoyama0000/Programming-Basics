@@ -4,7 +4,8 @@
 - 担当教員： 向井智彦（email: mukai@tmu.ac.jp, 日野１号館２階２４７室）
 - 講義に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Programming-Basics/issues)へ記載して下さい．
 
-## 連絡事項(11/13更新)
+## 連絡事項(11/19更新)
+- [11/19] 第7回演習課題の第二次〆切は11月20日(火)授業開始前までとします。なお、プルリク未発行がないか確認しておいてください。
 - [11/13] 課題07-02とExcelの連携方法について追記しました。
 - [11/13] プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
 - [10/06] (再掲)情報処理教室でGitHubを閲覧する際のWebブラウザには、Google Chromeの利用を推奨します。Microsoft EdgeやInternet Explorerではうまく動作しないことがあるようです。
@@ -54,7 +55,7 @@
 ### 7. 値渡しと参照・ポインタ
 - [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/07参照とポインタ.pdf)
 - [演習課題の実施方法](https://github.com/MukaiClass/Programming-Basics/wiki/%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%AE%9F%E6%96%BD%E6%96%B9%E6%B3%95%EF%BC%88%E5%89%8D%E5%8D%8A%EF%BC%89)
-  - 課題の提出期限はいずれも 11月19日(月)17時まで（それ以降の提出については添削コメント省略）
+  - 第一次提出期限は 11月19日(月)17時（添削コメントを付けます）、第二次〆切は11月20日(火)授業開始前まで（添削コメント省略）
   - 課題ファイル「07-01.cpp」「07-02.cpp」を[課題ファイルの取得手順](https://github.com/MukaiClass/Programming-Basics/wiki/%E8%AA%B2%E9%A1%8C%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E5%8F%96%E5%BE%97%E6%89%8B%E9%A0%86)にしたがってこのページの上部から取得して、その内容をそれぞれ更新
   - [07-02のExcelでのグラフ描画方法の紹介](https://github.com/MukaiClass/Programming-Basics/wiki/%E6%BC%94%E7%BF%9207-02%E3%81%AE%E8%A3%9C%E8%B6%B3%EF%BC%9AExcel%E3%81%A7%E3%81%AE%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AE%E6%8F%8F%E3%81%8D%E6%96%B9)
   - プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
@@ -63,6 +64,7 @@
 - [開発環境について(Windows)](https://github.com/MukaiClass/Programming-Basics/wiki/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#windows%E5%90%91%E3%81%91-visual-studio-community-2017)
 - [GitHub Desktopのインストール(windows)](https://github.com/MukaiClass/Programming-Basics/wiki/GitHub-Desktop%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 - [GitHub Desktopを利用した提出手順](https://github.com/MukaiClass/Programming-Basics/wiki/GitHub-Desktop%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%8F%90%E5%87%BA%E6%89%8B%E9%A0%86)
+- 第8回は演習課題はありません。
 
 ### 9. 変数と配列2
 ### 10. 入力と条件分岐2
