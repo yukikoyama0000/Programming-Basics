@@ -61,6 +61,7 @@
   - プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
 
 ### 8. 基礎演習
+- [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/08基礎演習.pdf)
 - [開発環境について(Windows)](https://github.com/MukaiClass/Programming-Basics/wiki/%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6#windows%E5%90%91%E3%81%91-visual-studio-community-2017)
 - [GitHub Desktopのインストール(windows)](https://github.com/MukaiClass/Programming-Basics/wiki/GitHub-Desktop%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 - [GitHub Desktopを利用した提出手順](https://github.com/MukaiClass/Programming-Basics/wiki/GitHub-Desktop%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%8F%90%E5%87%BA%E6%89%8B%E9%A0%86)
