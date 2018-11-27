@@ -69,9 +69,10 @@
 - 第8回は演習課題はありません。
 
 ### 9. 変数と配列2
-- [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/09変数と配列2.pdf)
+- [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/09変数と配列2.pdf)（11/27更新）
 - [GitHub Desktopを利用した提出手順](https://github.com/MukaiClass/Programming-Basics/wiki/GitHub-Desktop%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%9F%E6%8F%90%E5%87%BA%E6%89%8B%E9%A0%86)
-- 演習課題はBASICかEXTRAのどちらかのみ実施。課題の第一次提出期限は 12月4日(月)17時（添削コメントを付けます）、第二次〆切は 12月5日(火)授業開始前まで（添削コメント省略）
+- 演習課題はBASIC、EXTRA、ADVANCEDのいずれかのみ実施。
+- 課題の第一次提出期限は 12月4日(月)17時（添削コメント付与）、第二次〆切は 12月5日(火)授業開始前まで（添削コメント省略）
 
 ### 10. 入力と条件分岐2
 ### 11. 反復と配列2
