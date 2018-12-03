@@ -5,6 +5,7 @@
 - 講義に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Programming-Basics/issues)へ記載して下さい．
 
 ## 連絡事項(11/20更新)
+- [12/03] 先週第9回の課題については、Github DesktopやVisual Studio/Xcodeまわりのトラブルが多いようですので、〆切を1週間延長します。
 - [11/20] 補習に興味ある人は mukai@tmu.ac.jp までメールください。件名：プログラミング基礎の補習、内容：学習番号と氏名、希望や質問など
 - [11/19] 第7回演習課題の第二次〆切は11月20日(火)授業開始前までとします。なお、プルリク未発行がないか確認しておいてください。
 - [11/13] 課題07-02とExcelの連携方法について追記しました。
@@ -72,7 +73,7 @@
 - [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/09変数と配列2.pdf)（11/27更新）
 - [graphics課題の実施概要](https://github.com/MukaiClass/Programming-Basics/wiki/%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%AE%9F%E6%96%BD%E6%96%B9%E6%B3%95%EF%BC%88graphics%EF%BC%89)
 - 演習課題はBASIC、EXTRA、ADVANCEDのいずれかのみ実施。
-- 課題の第一次提出期限は 12月4日(月)17時（添削コメント付与）、第二次〆切は 12月5日(火)授業開始前まで（添削コメント省略）
+- 課題の第一次提出期限は 12月 ~~4日~~ 11日(月)17時（添削コメント付与）、第二次〆切は 12月 ~~5日~~ 12日(火)授業開始前まで（添削コメント省略）
 
 ### 10. 入力と条件分岐2
 ### 11. 反復と配列2
