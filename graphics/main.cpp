@@ -100,7 +100,6 @@ void predisplay()
 void postdisplay()
 {
     glutSwapBuffers();
-    key = 0;
 }
 
 void keyboard(unsigned char k, int x, int y)
