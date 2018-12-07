@@ -6,7 +6,8 @@
 
 ## 連絡事項(12/7更新)
 - [12/07] 第10回課題のBASIC/EXTRA/ADVANCEについて、複数の課題提出があった場合は難易度がもっとも高い課題を評価対象とします
-    -例：BASICとEXTRAの両方が提出された場合はEXTRAを評価対象とします
+     - 例：BASICとEXTRAの両方が提出された場合はEXTRAを評価対象とします
+
 - [12/07] 補習第2回は12月13日（木）13時頃から、[日野キャンパス4号館3階303室ソフトウェアデザインスタジオ](https://www.tmu.ac.jp/university/campus_guide/map.html#map_hino)で実施します。2時間程度（入退室自由）です。興味ある人は mukai@tmu.ac.jp まで一報ください。
 - [12/03] 先週第9回の課題については、Github DesktopやVisual Studio/Xcodeまわりのトラブルが多いようですので、〆切を1週間延長します。
 - [11/13] プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
