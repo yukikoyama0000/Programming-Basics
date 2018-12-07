@@ -4,9 +4,11 @@
 - 担当教員： 向井智彦（email: mukai@tmu.ac.jp, 日野１号館２階２４７室）
 - 講義に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Programming-Basics/issues)へ記載して下さい．
 
-## 連絡事項(12/3更新)
+## 連絡事項(12/7更新)
+- [12/07] 第10回課題のBASIC/EXTRA/ADVANCEについて、複数の課題提出があった場合は難易度がもっとも高い課題を評価対象とします
+    -例：BASICとEXTRAの両方が提出された場合はEXTRAを評価対象とします
+- [12/07] 補習第2回は12月13日（木）13時頃から、[日野キャンパス4号館3階303室ソフトウェアデザインスタジオ](https://www.tmu.ac.jp/university/campus_guide/map.html#map_hino)で実施します。2時間程度（入退室自由）です。興味ある人は mukai@tmu.ac.jp まで一報ください。
 - [12/03] 先週第9回の課題については、Github DesktopやVisual Studio/Xcodeまわりのトラブルが多いようですので、〆切を1週間延長します。
-- [12/03] 補習は12月6日（木）13時頃から、[日野キャンパス4号館3階303室ソフトウェアデザインスタジオ](https://www.tmu.ac.jp/university/campus_guide/map.html#map_hino)で実施します。2時間程度（入退室自由）です。興味ある人は mukai@tmu.ac.jp まで一報ください。
 - [11/13] プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
 - [10/06] (再掲)情報処理教室でGitHubを閲覧する際のWebブラウザには、Google Chromeの利用を推奨します。Microsoft EdgeやInternet Explorerではうまく動作しないことがあるようです。
 
@@ -76,7 +78,7 @@
 ### 10. 入力と条件分岐2
 - [スライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/10入力と条件分岐2.pdf)
 - [graphics課題の実施概要](https://github.com/MukaiClass/Programming-Basics/wiki/%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%AE%9F%E6%96%BD%E6%96%B9%E6%B3%95%EF%BC%88graphics%EF%BC%89)
-- 演習課題はBASIC、EXTRA、ADVANCEDのいずれかのみ実施。
+- 演習課題はBASIC、EXTRA、ADVANCEDのいずれかのみ実施。複数個提出された場合は、難易度が高い方を評価対象とします。
 - 課題の第一次提出期限は 12月11日(月)17時（添削コメント付与）、第二次〆切は 12月12日(火)授業開始前まで（添削コメント省略）
 
 ### 11. 反復と配列2
