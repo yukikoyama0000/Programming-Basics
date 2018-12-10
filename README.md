@@ -83,6 +83,11 @@
 - 課題の第一次提出期限は 12月11日(月)17時（添削コメント付与）、第二次〆切は 12月12日(火)授業開始前まで（添削コメント省略）
 
 ### 11. 反復と配列2
+- [スライド仮版](https://github.com/MukaiClass/Programming-Basics/blob/slide/11反復と配列2.pdf)
+- [graphics課題の実施概要](https://github.com/MukaiClass/Programming-Basics/wiki/%E8%AA%B2%E9%A1%8C%E3%81%AE%E5%AE%9F%E6%96%BD%E6%96%B9%E6%B3%95%EF%BC%88graphics%EF%BC%89)
+- 演習課題はBASIC、EXTRA、ADVANCEDのうち１つを実施。複数個提出された場合は、難易度が高い方を評価対象とします。
+- 課題の第一次提出期限は 12月17日(月)17時（添削コメント付与）、第二次〆切は 12月18日(火)授業開始前まで（添削コメント省略）
+
 ### 12. 関数2
 ### 13. グラフィックス演習
 ### 14. グラフィックス演習
