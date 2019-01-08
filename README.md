@@ -5,12 +5,6 @@
 - 講義に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Programming-Basics/issues)へ記載して下さい．
 
 ## 連絡事項(12/7更新)
-- [12/07] 第10回課題のBASIC/EXTRA/ADVANCEについて、複数の課題提出があった場合は難易度がもっとも高い課題を評価対象とします
-     - 例：BASICとEXTRAの両方が提出された場合はEXTRAを評価対象とします
-
-- [12/07] 補習第2回は12月13日（木）13時頃から、[日野キャンパス4号館3階303室ソフトウェアデザインスタジオ](https://www.tmu.ac.jp/university/campus_guide/map.html#map_hino)で実施します。2時間程度（入退室自由）です。興味ある人は mukai@tmu.ac.jp まで一報ください。
-- [12/03] 先週第9回の課題については、Github DesktopやVisual Studio/Xcodeまわりのトラブルが多いようですので、〆切を1週間延長します。
-- [11/13] プルリクエストの発行の際には、「[コードレビュー](https://github.com/MukaiClass/Programming-Basics/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E6%A9%9F%E8%83%BD%E3%81%AE%E5%88%A9%E7%94%A8)」という機能を使ってみて下さい。
 - [10/06] (再掲)情報処理教室でGitHubを閲覧する際のWebブラウザには、Google Chromeの利用を推奨します。Microsoft EdgeやInternet Explorerではうまく動作しないことがあるようです。
 
 ## 講義資料
@@ -98,6 +92,8 @@
 - 最終作品および制作レポートの〆切は1月31日(木)です。
 - [最終作品ガイダンススライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/13最終課題ガイダンス.pdf)
 - [最終作品レポートひな形](https://github.com/MukaiClass/Programming-Basics/blob/slide/PB最終作品レポート.docx)
+- このページ上部の「Branch: master」ボタンを、「seesaw」「teapots」「ex11adv」「texture」と切り替えると、最終作品制作に役立つかもしれないサンプルプログラムが見られます
+    - 「texture」については[画像の作成法](https://github.com/MukaiClass/Game-Programming-B/wiki/Photoshop%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E7%94%BB%E5%83%8F%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86)も参照してください。
 
 ## 参考書籍・Webサイト
 - [苦しんで覚えるＣ言語](http://9cguide.appspot.com/): C言語入門サイトです．文法や仕様をきちんと理解したい人にオススメします．書籍版も持ち運びしやすい＆読みやすいのでオススメです．
