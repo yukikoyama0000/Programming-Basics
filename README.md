@@ -91,7 +91,7 @@
 ### 13. グラフィックス演習
 ### 14. グラフィックス演習
 ### 15. グラフィックス演習
-- 最終作品および制作レポートの〆切は~~1月31日(木)です。~~2月8日(金)に延長しました。
+- 最終作品および制作レポートの〆切は ~~1月31日(木)です。~~ 2月8日(金)に延長しました。
 - [最終作品ガイダンススライド](https://github.com/MukaiClass/Programming-Basics/blob/slide/13最終課題ガイダンス.pdf)
 - [最終作品レポートひな形](https://github.com/MukaiClass/Programming-Basics/blob/slide/PB最終作品レポート.docx)
 
