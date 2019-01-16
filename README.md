@@ -5,6 +5,7 @@
 - 講義に関する質問は [講義ページのIssue](https://github.com/MukaiClass/Programming-Basics/issues)へ記載して下さい．
 
 ## 連絡事項(1/9更新)
+- [01/15] 最終作品・レポート〆切を2月8日(金)に延長しました。
 - [01/09] このページ上部の「Branch: master」ボタンを、「seesaw」「teapots」「ex11adv」「texture」と切り替えると、最終作品制作に役立つかもしれないサンプルプログラムが見られます
     - 「texture」については[画像の作成法](https://github.com/MukaiClass/Game-Programming-B/wiki/Photoshop%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E3%83%86%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E7%94%BB%E5%83%8F%E4%BD%9C%E6%88%90%E6%89%8B%E9%A0%86)も参照してください。
 - [10/06] (再掲)情報処理教室でGitHubを閲覧する際のWebブラウザには、Google Chromeの利用を推奨します。Microsoft EdgeやInternet Explorerではうまく動作しないことがあるようです。
